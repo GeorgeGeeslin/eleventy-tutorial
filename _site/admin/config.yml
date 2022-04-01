@@ -1,5 +1,6 @@
 backend:
-	name: git-gateway
+	name: github
+  repo: GeorgeGeeslin/eleventy-tutorial
 	branch: main
 
 media_folder: "_site/images/uploads"
